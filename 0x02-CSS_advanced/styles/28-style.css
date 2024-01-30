@@ -187,7 +187,7 @@ a:active {
 .header-logo a {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
-    bottom: var(--header-logo-link-top);
+    top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
 }
 
